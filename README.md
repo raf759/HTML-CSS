@@ -15,5 +15,4 @@ The opening tag
 The closing tag
 The actual element
 
-CSS stands for Cascading Style Sheets language and is used to stylize elements written in a markup language such as HTML. It separates the content from the visual representation of the site. 
-The relation between HTML and CSS is strongly tied together since HTML is the very foundation of a site and CSS is all of the aesthetics of an entire website.
+CSS stands for Cascading Style Sheets language and is used to style elements written in a markup language such as HTML. It separates the content from the visual representation of the site. The relation between HTML and CSS is strongly combined together since HTML is the very foundation of a site and CSS is all of the aesthetics of an entire website.
